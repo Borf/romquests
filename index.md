@@ -208,4 +208,52 @@ graph LR
 	click 400040001 "https://github.com/Borf/romquests/blob/master/400040001.md"
 	11500006 --> 400040001
 	20860002 --> 400040001
+	1004520016[Seven Royals Sphere - Garden]
+	click 1004520016 "https://github.com/Borf/romquests/blob/master/1004520016.md"
+	1004520099 --> 1004520016
+	1004520001[Seven Royals Sphere - Corridor]
+	click 1004520001 "https://github.com/Borf/romquests/blob/master/1004520001.md"
+	1004520099 --> 1004520001
+	1004520004[Seven Royals Sphere - Corridor]
+	click 1004520004 "https://github.com/Borf/romquests/blob/master/1004520004.md"
+	1004520099 --> 1004520004
+	1004520007[Seven Royals Sphere - Corridor]
+	click 1004520007 "https://github.com/Borf/romquests/blob/master/1004520007.md"
+	1004520099 --> 1004520007
+	1004520008[Seven Royals Sphere - Corridor]
+	click 1004520008 "https://github.com/Borf/romquests/blob/master/1004520008.md"
+	1004520099 --> 1004520008
+	1004520011[Seven Royals Sphere - Garden]
+	click 1004520011 "https://github.com/Borf/romquests/blob/master/1004520011.md"
+	1004520099 --> 1004520011
+	1004520012[Seven Royals Sphere - Garden]
+	click 1004520012 "https://github.com/Borf/romquests/blob/master/1004520012.md"
+	1004520099 --> 1004520012
+	1004530001[Seven Royals Sphere - Special Quest]
+	click 1004530001 "https://github.com/Borf/romquests/blob/master/1004530001.md"
+	1004520099 --> 1004530001
+	1004530042[Seven Royals Sphere - Dining Room]
+	click 1004530042 "https://github.com/Borf/romquests/blob/master/1004530042.md"
+	1004520099 --> 1004530042
+	208260001[Patch for players who have quickly reached Tier 3 jobs]
+	click 208260001 "https://github.com/Borf/romquests/blob/master/208260001.md"
+	208250001 --> 208260001
+	10001[Novice]
+	click 10001 "https://github.com/Borf/romquests/blob/master/10001.md"
+	10101 --> 10001
+	10100[Novice]
+	click 10100 "https://github.com/Borf/romquests/blob/master/10100.md"
+	10001 --> 10100
+	10002[Trial 1]
+	click 10002 "https://github.com/Borf/romquests/blob/master/10002.md"
+	10100 --> 10002
+	10003[Trial 2]
+	click 10003 "https://github.com/Borf/romquests/blob/master/10003.md"
+	10002 --> 10003
+	10030[Trial 1]
+	click 10030 "https://github.com/Borf/romquests/blob/master/10030.md"
+	10003 --> 10030
+	400000001[Point Allocation Guide]
+	click 400000001 "https://github.com/Borf/romquests/blob/master/400000001.md"
+	10003 --> 400000001
 ```
