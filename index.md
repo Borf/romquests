@@ -171,4 +171,41 @@ graph LR
 	40001[Go to Prontera]
 	click 40001 "https://github.com/Borf/romquests/blob/master/40001.md"
 	10010 --> 40001
+	40100[Go to Prontera]
+	click 40100 "https://github.com/Borf/romquests/blob/master/40100.md"
+	40001 --> 40100
+	99450018[Play Video 1]
+	click 99450018 "https://github.com/Borf/romquests/blob/master/99450018.md"
+	40001 --> 99450018
+	40003[Visit Prontera]
+	click 40003 "https://github.com/Borf/romquests/blob/master/40003.md"
+	40002 --> 40003
+	300080068[Visit Prontera]
+	click 300080068 "https://github.com/Borf/romquests/blob/master/300080068.md"
+	40003 --> 300080068
+	40007[Visit Prontera]
+	click 40007 "https://github.com/Borf/romquests/blob/master/40007.md"
+	40004 --> 40007
+	11000001[Select Job]
+	click 11000001 "https://github.com/Borf/romquests/blob/master/11000001.md"
+	40007 --> 11000001
+	11040011[Be an Archer]
+	click 11040011 "https://github.com/Borf/romquests/blob/master/11040011.md"
+	22580004 --> 11040011
+	603140001[Voice task]
+	click 603140001 "https://github.com/Borf/romquests/blob/master/603140001.md"
+	603170001 --> 603140001
+	99130002[Enhance Quest]
+	click 99130002 "https://github.com/Borf/romquests/blob/master/99130002.md"
+	99130001 --> 99130002
+	11140013[Be an Archer]
+	click 11140013 "https://github.com/Borf/romquests/blob/master/11140013.md"
+	11040012 --> 11140013
+	11140014[Be an Archer]
+	click 11140014 "https://github.com/Borf/romquests/blob/master/11140014.md"
+	11040012 --> 11140014
+	400040001[Allocate Skill Points]
+	click 400040001 "https://github.com/Borf/romquests/blob/master/400040001.md"
+	11500006 --> 400040001
+	20860002 --> 400040001
 ```
