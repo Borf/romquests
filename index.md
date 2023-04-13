@@ -9,6 +9,9 @@ graph LR
 	99200001[Eden Team Turban Blueprint]
 	click 99200001 "https://github.com/Borf/romquests/blob/master/99200001.md"
 	99190002 --> 99200001
+	204460002[Cat and Clockwork Mouse]
+	click 204460002 "https://github.com/Borf/romquests/blob/master/204460002.md"
+	204460001 --> 204460002
 	300051015[Kafra Saving Service]
 	click 300051015 "https://github.com/Borf/romquests/blob/master/300051015.md"
 	300080068 --> 300051015
@@ -31,6 +34,10 @@ graph LR
 	click 398040001 "https://github.com/Borf/romquests/blob/master/398040001.md"
 	396380001 --> 398040001
 	396390001 --> 398040001
+	398050001[Personal assistant]
+	click 398050001 "https://github.com/Borf/romquests/blob/master/398050001.md"
+	396380001 --> 398050001
+	396390001 --> 398050001
 	398060001[Personal assistant]
 	click 398060001 "https://github.com/Borf/romquests/blob/master/398060001.md"
 	396380001 --> 398060001
@@ -87,9 +94,30 @@ graph LR
 	click 398090001 "https://github.com/Borf/romquests/blob/master/398090001.md"
 	396380001 --> 398090001
 	396390001 --> 398090001
+	120001[Nes from Baphomet]
+	click 120001 "https://github.com/Borf/romquests/blob/master/120001.md"
+	110017 --> 120001
 	120002[Nes from Baphomet]
 	click 120002 "https://github.com/Borf/romquests/blob/master/120002.md"
 	120001 --> 120002
+	11110001[Job Upgrade]
+	click 11110001 "https://github.com/Borf/romquests/blob/master/11110001.md"
+	400040001 --> 11110001
+	11120001[Job Upgrade]
+	click 11120001 "https://github.com/Borf/romquests/blob/master/11120001.md"
+	400040001 --> 11120001
+	11130001[Job Upgrade]
+	click 11130001 "https://github.com/Borf/romquests/blob/master/11130001.md"
+	400040001 --> 11130001
+	11140001[Job Upgrade]
+	click 11140001 "https://github.com/Borf/romquests/blob/master/11140001.md"
+	400040001 --> 11140001
+	11150001[Job Upgrade]
+	click 11150001 "https://github.com/Borf/romquests/blob/master/11150001.md"
+	400040001 --> 11150001
+	11160001[Job Upgrade]
+	click 11160001 "https://github.com/Borf/romquests/blob/master/11160001.md"
+	400040001 --> 11160001
 	20540001[Secret of the Statue]
 	click 20540001 "https://github.com/Borf/romquests/blob/master/20540001.md"
 	30000001 --> 20540001
@@ -256,4 +284,80 @@ graph LR
 	400000001[Point Allocation Guide]
 	click 400000001 "https://github.com/Borf/romquests/blob/master/400000001.md"
 	10003 --> 400000001
+	398170001[Change the assistant]
+	click 398170001 "https://github.com/Borf/romquests/blob/master/398170001.md"
+	396380001 --> 398170001
+	396390001 --> 398170001
+	301990010[Heart's Origin Collectible Side Story]
+	click 301990010 "https://github.com/Borf/romquests/blob/master/301990010.md"
+	301990101 --> 301990010
+	301990100[Heart's Origin Collectible Side Story]
+	click 301990100 "https://github.com/Borf/romquests/blob/master/301990100.md"
+	301990101 --> 301990100
+	13000001[Mjolnir Mountains]
+	click 13000001 "https://github.com/Borf/romquests/blob/master/13000001.md"
+	120002 --> 13000001
+	99090012[Entrustment Quest]
+	click 99090012 "https://github.com/Borf/romquests/blob/master/99090012.md"
+	99090011 --> 99090012
+	99130022[Enhance Quest]
+	click 99130022 "https://github.com/Borf/romquests/blob/master/99130022.md"
+	99130011 --> 99130022
+	300670002[Official Event]
+	click 300670002 "https://github.com/Borf/romquests/blob/master/300670002.md"
+	300670001 --> 300670002
+	99030002[Lucky Four-leaf Clover]
+	click 99030002 "https://github.com/Borf/romquests/blob/master/99030002.md"
+	99030001 --> 99030002
+	204440002[Cat and Yarn Ball]
+	click 204440002 "https://github.com/Borf/romquests/blob/master/204440002.md"
+	204440001 --> 204440002
+	400070001[Point Allocation after Job-change]
+	click 400070001 "https://github.com/Borf/romquests/blob/master/400070001.md"
+	400040001 --> 400070001
+	60030001[Adventurer Handbook]
+	click 60030001 "https://github.com/Borf/romquests/blob/master/60030001.md"
+	50001 --> 60030001
+	60030002[Adventurer Handbook]
+	click 60030002 "https://github.com/Borf/romquests/blob/master/60030002.md"
+	60030001 --> 60030002
+	60040001[Adventurer Handbook]
+	click 60040001 "https://github.com/Borf/romquests/blob/master/60040001.md"
+	60030002 --> 60040001
+	400050001[Adventure Handbook]
+	click 400050001 "https://github.com/Borf/romquests/blob/master/400050001.md"
+	60030002 --> 400050001
+	60040002[Adventurer Handbook]
+	click 60040002 "https://github.com/Borf/romquests/blob/master/60040002.md"
+	60040001 --> 60040002
+	60040003[Adventurer Handbook]
+	click 60040003 "https://github.com/Borf/romquests/blob/master/60040003.md"
+	60040002 --> 60040003
+	400060001[Adventure Handbook]
+	click 400060001 "https://github.com/Borf/romquests/blob/master/400060001.md"
+	60040003 --> 400060001
+	60040005[Adventurer Handbook]
+	click 60040005 "https://github.com/Borf/romquests/blob/master/60040005.md"
+	60040004 --> 60040005
+	400099[领佣兵猫引导]
+	click 400099 "https://github.com/Borf/romquests/blob/master/400099.md"
+	60040005 --> 400099
+	400001[领佣兵猫引导]
+	click 400001 "https://github.com/Borf/romquests/blob/master/400001.md"
+	400099 --> 400001
+	400002[领佣兵猫引导]
+	click 400002 "https://github.com/Borf/romquests/blob/master/400002.md"
+	400099 --> 400002
+	400003[领佣兵猫引导]
+	click 400003 "https://github.com/Borf/romquests/blob/master/400003.md"
+	400099 --> 400003
+	400004[领佣兵猫引导]
+	click 400004 "https://github.com/Borf/romquests/blob/master/400004.md"
+	400099 --> 400004
+	60001[Find Old Scholar]
+	click 60001 "https://github.com/Borf/romquests/blob/master/60001.md"
+	60100 --> 60001
+	60002[Find Scholar]
+	click 60002 "https://github.com/Borf/romquests/blob/master/60002.md"
+	60001 --> 60002
 ```
