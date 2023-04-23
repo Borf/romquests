@@ -53,7 +53,7 @@ graph LR
 	400080001["South Gate Mini Map Guide (400080001)\nguiding_task\n3 steps"]
 	click 400080001 "https://github.com/Borf/romquests/blob/master/400080001.md"
 	10009 --> 400080001
-	10004["Trial 3 (10004)\nacc_main\n20 steps"]
+	10004["Trial 3 (10004)\nacc_main\n24 steps"]
 	click 10004 "https://github.com/Borf/romquests/blob/master/10004.md"
 	10009 --> 10004
 	40002["Go to Prontera (40002)\nacc_main\n4 steps"]
@@ -175,22 +175,22 @@ graph LR
 	10011["South Gate group photo (10011)\nacc_main\n4 steps"]
 	click 10011 "https://github.com/Borf/romquests/blob/master/10011.md"
 	10008 --> 10011
-	10061["Trial 3 (10061)\nacc_branch\n1 steps"]
+	10061["Trial 3 (10061)\nacc_branch\n2 steps"]
 	click 10061 "https://github.com/Borf/romquests/blob/master/10061.md"
 	10011 --> 10061
-	10062["Trial 3 (10062)\nacc_branch\n1 steps"]
+	10062["Trial 3 (10062)\nacc_branch\n2 steps"]
 	click 10062 "https://github.com/Borf/romquests/blob/master/10062.md"
 	10011 --> 10062
-	10063["Trial 3 (10063)\nacc_branch\n1 steps"]
+	10063["Trial 3 (10063)\nacc_branch\n2 steps"]
 	click 10063 "https://github.com/Borf/romquests/blob/master/10063.md"
 	10011 --> 10063
-	10064["Trial 3 (10064)\nacc_branch\n1 steps"]
+	10064["Trial 3 (10064)\nacc_branch\n2 steps"]
 	click 10064 "https://github.com/Borf/romquests/blob/master/10064.md"
 	10011 --> 10064
-	10065["Trial 3 (10065)\nacc_branch\n1 steps"]
+	10065["Trial 3 (10065)\nacc_branch\n2 steps"]
 	click 10065 "https://github.com/Borf/romquests/blob/master/10065.md"
 	10011 --> 10065
-	10066["Trial 3 (10066)\nacc_branch\n1 steps"]
+	10066["Trial 3 (10066)\nacc_branch\n2 steps"]
 	click 10066 "https://github.com/Borf/romquests/blob/master/10066.md"
 	10011 --> 10066
 	10010["South Gate group photo (10010)\nacc_main\n11 steps"]
@@ -281,7 +281,7 @@ graph LR
 	10030["Trial 1 (10030)\nacc_main\n1 steps"]
 	click 10030 "https://github.com/Borf/romquests/blob/master/10030.md"
 	10003 --> 10030
-	400000001["Point Allocation Guide (400000001)\nguiding_task\n11 steps"]
+	400000001["Point Allocation Guide (400000001)\nguiding_task\n13 steps"]
 	click 400000001 "https://github.com/Borf/romquests/blob/master/400000001.md"
 	10003 --> 400000001
 	398170001["Change the assistant (398170001)\ntalk\n1 steps"]
@@ -387,7 +387,7 @@ graph LR
 	60013["Floating Garden (60013)\nacc_branch\n1 steps"]
 	click 60013 "https://github.com/Borf/romquests/blob/master/60013.md"
 	60012 --> 60013
-	99090004["First Time in Izlude (99090004)\nacc_main\n1 steps"]
+	99090004["First Time in Izlude (99090004)\nacc_main\n2 steps"]
 	click 99090004 "https://github.com/Borf/romquests/blob/master/99090004.md"
 	60012 --> 99090004
 	396060002["Sunset Lovers - Starry Night (396060002)\nbranch\n7 steps"]
